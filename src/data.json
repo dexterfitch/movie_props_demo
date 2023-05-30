@@ -1,0 +1,49 @@
+{
+  "genres": [
+    {
+      "genre": "Action",
+      "movies": [
+        {
+          "title": "John Wick: Chapter 4",
+          "description": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+          "poster_url": "https://image.tmdb.org/t/p/w300/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"
+        },
+        {
+          "title": "Fast X",
+          "description": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+          "poster_url": "https://image.tmdb.org/t/p/w300/1E5baAaEse26fej7uHcjOgEE2t2.jpg"
+        }
+      ]
+    },
+    {
+      "genre": "Animation",
+      "movies": [
+        {
+          "title": "The Super Mario Bros. Movie",
+          "description": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+          "poster_url": "https://www.themoviedb.org/t/p/w300/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg"
+        },
+        {
+          "title": "Spider-Man: Across the Spider-Verse",
+          "description": "After reuniting with Gwen Stacy, Miles Morales — Brooklyn's full-time, friendly neighborhood Spider-Man — is catapulted across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must redefine what it means to be a hero so he can save the people he loves most.",
+          "poster_url": "https://www.themoviedb.org/t/p/w300/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg"
+        }
+      ]
+    },
+    {
+      "genre": "Comedy",
+      "movies": [
+        {
+          "title": "Dungeons & Dragons: Honor Among Thieves",
+          "description": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+          "poster_url": "https://www.themoviedb.org/t/p/w300/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg"
+        },
+        {
+          "title": "Renfield",
+          "description": "Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life — and maybe even redemption — when he falls for feisty, perennially angry traffic cop Rebecca Quincy.",
+          "poster_url": "https://www.themoviedb.org/t/p/w300/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg"
+        }
+      ]
+    }
+  ]
+}

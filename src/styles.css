@@ -1,0 +1,42 @@
+body {
+  background-color: #111;
+  color: floralwhite;
+  font-family: sans-serif;
+  padding: 0 20px;
+}
+
+h1 {
+  color: rgb(255, 253, 202);
+}
+
+h2 {
+  color: rgb(50, 212, 218);
+}
+
+.genre {
+  margin-bottom: 100px;
+}
+
+.movie {
+  border: 1px solid floralwhite;
+  margin-bottom: 20px;
+  padding: 20px;
+  height: 300px;
+}
+
+.movie img {
+  float: left;
+  padding-right: 20px;
+  max-height: 300px;
+  border-right: 1px solid floralwhite;
+  margin-right: 20px;
+}
+
+.movie p {
+  font-size: 18px;
+}
+
+.movie h3 {
+  font-size: 30px;
+  margin-top: 0;
+}
